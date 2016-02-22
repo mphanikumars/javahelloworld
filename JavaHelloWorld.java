@@ -4,5 +4,7 @@ public class JavaHelloWorld
         {
                 System.out.println("Java Hello World");
                 System.out.println("Hello World");
+				System.out.println("Verified");
+				System.out.println("Version 2");
         }
 }
